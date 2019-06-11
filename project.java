@@ -1,5 +1,5 @@
 import java.lang.*;
-class Priyanka
+class project
 {
   public static void main(String args[])
   {
